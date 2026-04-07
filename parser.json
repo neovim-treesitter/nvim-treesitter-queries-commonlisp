@@ -1,9 +1,9 @@
 {
-  "location": null,
   "semver": false,
+  "parser_version": "32323509b3d9fe96607d151c2da2c9009eb13a2f",
+  "location": null,
+  "lang": "commonlisp",
   "generate": null,
   "generate_from_json": null,
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-commonlisp",
-  "lang": "commonlisp",
-  "parser_version": "32323509b3d9fe96607d151c2da2c9009eb13a2f"
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-commonlisp"
 }
